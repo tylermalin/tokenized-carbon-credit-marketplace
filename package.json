@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/tylermalin/tokenized-carbon-credit-marketplace/issues"
   },
-  "homepage": "https://github.com/tylermalin/tokenized-carbon-credit-marketplace#readme"
+  "homepage": "https://github.com/tylermalin/tokenized-carbon-credit-marketplace#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "all": "^0.0.0",
+    "dotenv": "^16.0.0",
+    "ganache": "^7.1.0",
+    "ganache-cli": "^6.12.2",
+    "openzeppelin-solidity": "^4.6.0",
+    "solidity": "^0.0.1",
+    "web3": "^1.7.3"
+  }
 }
