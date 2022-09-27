@@ -35,7 +35,6 @@ module.exports = {
       skipDryRun: true,
       gasPrice: 5000000000
     }
-  compilers: {
     solc: {
       version: "pragma",
       //version: "0.5.16",  /// Final version of solidity-v0.5.x
