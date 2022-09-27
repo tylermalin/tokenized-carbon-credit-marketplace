@@ -28,6 +28,7 @@ module.exports = {
       gasPrice: 2000000000 // 2 gwei
     },
     local: {  
+
       host: '127.0.0.1',
       port: 8545,
       network_id: '*',
