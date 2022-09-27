@@ -35,7 +35,6 @@ module.exports = {
       skipDryRun: true,
       gasPrice: 5000000000
     }
-  },
   compilers: {
     solc: {
       version: "pragma",
