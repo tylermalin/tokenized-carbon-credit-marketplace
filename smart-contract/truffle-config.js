@@ -35,6 +35,7 @@ module.exports = {
       skipDryRun: true,
       gasPrice: 5000000000
     }
+  }, 
   npm, compilers: {
     solc: {
       version: "0.6.12",
